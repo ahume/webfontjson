@@ -8,7 +8,7 @@ Sometimes you want more control over when and how web fonts are loaded in to you
 The package comes with an executable command, webfontjson
 
     npm install -g webfontjson
-    webfontjson build /path/to/config.json
+    webfontjson /path/to/config.json
     
 Everything else is configured in a configuration file. Here's an example:
 

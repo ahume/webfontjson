@@ -6,13 +6,13 @@
 			{
 				"font-family": "WebFont-MyriadPro",
 				"font-weight": "normal",
-				"file": "/Users/ahume/Development/fonts-in-json/test/fonts/MyriadPro-Regular.otf",
+				"file": "/Library/Fonts/MyriadPro-Regular.otf",
 				"format": "otf"
 			},
 			{
 				"font-family": "WebFont-MyriadPro",
 				"font-weight": "bold",
-				"file": "/Users/ahume/Development/fonts-in-json/test/fonts/MyriadPro-Bold.otf",
+				"file": "/Library/Fonts/MyriadPro-Bold.otf",
 				"format": "otf"
 			}
 		]
@@ -25,13 +25,13 @@
 			{
 				"font-family": "WebFont-MyriadPro2",
 				"font-weight": "normal",
-				"file": "/Users/ahume/Development/fonts-in-json/test/fonts/MyriadPro-Regular.otf",
+				"file": "/Library/Fonts/MyriadPro-Regular.otf",
 				"format": "otf"
 			},
 			{
 				"font-family": "WebFont-MyriadPro2",
 				"font-weight": "bold",
-				"file": "/Users/ahume/Development/fonts-in-json/test/fonts/MyriadPro-Bold.otf",
+				"file": "/Library/Fonts/MyriadPro-Bold.otf",
 				"format": "otf"
 			}
 		] 

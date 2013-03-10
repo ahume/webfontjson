@@ -3,10 +3,10 @@
     "description": "Convert a set of web fonts to one json file",
     "version": "0.0.1",
     "author": "Andy Hume",
-    "homepage": "http://github.com/ahume/fonts-in-json",
+    "homepage": "http://github.com/ahume/webfontjson",
     "repository": {
         "type": "git",
-        "url": "git://github.com/ahume/fonts-in-json.git"
+        "url": "git://github.com/ahume/webfontjson.git"
     },
     "main": "lib/build",
     "bin": {

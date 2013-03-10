@@ -10,11 +10,16 @@ module.exports = function(grunt) {
           base: 'test'
         }
       }
+    },
+
+
+    nodeunit: {
+      all: ['test/test.js']
     }
 
   });
 
-  // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-contrib-connect');
+  grunt.loadNpmTasks('grunt-contrib-nodeunit');
 
 };

@@ -1,7 +1,7 @@
 {
     "name": "webfontjson",
     "description": "Convert a set of web fonts to one json file",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "author": "Andy Hume",
     "homepage": "http://github.com/ahume/webfontjson",
     "repository": {
